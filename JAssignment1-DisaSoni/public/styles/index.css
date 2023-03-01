@@ -1,0 +1,55 @@
+html,
+body {
+    height: 95%;
+}
+
+
+/*https://www.vecteezy.com/photo/2098204-silver-tabby-cat-sitting-on-green-background*/
+
+.bg-img-home {
+    background: #E9ECEF url('../assets/catbg-1.jpg') no-repeat fixed center;
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(5px);
+    /* Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+
+/* https://www.vecteezy.com/photo/6538697-cute-little-cats-looking-at-camera*/
+
+.bg-img-shop {
+    background: #E9ECEF url('../assets/catbg-3.jpg') no-repeat fixed center;
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(5px);
+    /* Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+
+/*https://www.vecteezy.com/photo/16557994-cute-and-curious-playful-kitten-looks-around-close-up*/
+
+.bg-img-contact {
+    background: #E9ECEF url('../assets/Catbg-2.jpg') no-repeat fixed center;
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(5px);
+    /* Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}

@@ -1,0 +1,44 @@
+extends layout
+
+block content
+    div.bg-img-contact.img-fluid
+  
+    div.container
+        form.m-5
+            div.row.mb-4
+                div.col
+                    div.form-floating
+                        input( type="text" id="form6Example1" placeholder="First Name" style="background: rgba(255,255,255,0.5)").form-control.text-black
+                        label.form-label( for="form6Example1").text-black First Name
+                div.col
+                    div.form-floating
+                        input( type="text" id="form6Example2" placeholder="Last Name" style="background: rgba(255,255,255,0.5)").form-control.text-black
+                        label.form-label( for="form6Example2").text-black Last name
+
+
+            div( class="form-floating mb-4")
+                input( type="text" id="form6Example3" class="form-control" placeholder="Company Name" style="background: rgba(255,255,255,0.5)").text-black
+                label( class="form-label" for="form6Example3" ).text-black Company Name
+
+            div(class="form-floating mb-4")
+                input( type="text" id="form6Example4" class="form-control" placeholder="Address" style="background: rgba(255,255,255,0.5)").text-black
+                label( class="form-label" for="form6Example4").text-black Address
+
+
+
+            div( class="form-floating mb-4")
+                input( type="email" id="form6Example5" class="form-control" placeholder="Email" style="background: rgba(255,255,255,0.5)").text-black
+                label( class="form-label" for="form6Example5").text-black Email
+
+
+
+            div( class="form-floating mb-4")
+                input( type="number" id="form6Example6" class="form-control" placeholder="Phone" style="background: rgba(255,255,255,0.5)").text-black
+                label( class="form-label" for="form6Example6").text-black Phone
+
+
+            div( class="form-floating mb-4")
+                textarea( class="form-control" id="form6Example7" rows="4" placeholder="Your Query" style="background: rgba(255,255,255,0.5)").text-black
+                label( class="form-label" for="form6Example7").text-black Your Query
+
+            button( type="submit" class="btn btn-primary btn-block mb-4").w-100 Submit

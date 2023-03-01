@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "63d4187fcadc3211680f5243",
+    "image": "https://cdn2.thecatapi.com/images/Rscv6E1c5.jpg",
+    "name": "Necati",
+    "price": 84,
+    "breed": "Abyssinian",
+    "age": 6,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5244",
+    "image": "https://cdn2.thecatapi.com/images/MTkyOTY5OA.jpg",
+    "name": "Piper",
+    "price": 143,
+    "breed": "American Curl",
+    "age": 11,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5245",
+    "image": "https://cdn2.thecatapi.com/images/ddf.jpg",
+    "name": "Silke",
+    "price": 62,
+    "breed": "American Bobtail",
+    "age": 5,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5246",
+    "image": "https://cdn2.thecatapi.com/images/85i.jpg",
+    "name": "Stefano",
+    "price": 61,
+    "breed": "Balinese",
+    "age": 10,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5247",
+    "image": "https://cdn2.thecatapi.com/images/h8.jpg",
+    "name": "Isabelle",
+    "price": 88,
+    "breed": "Bengal",
+    "age": 8,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5248",
+    "image": "https://cdn2.thecatapi.com/images/MjA0NTYwOA.jpg",
+    "name": "Darko",
+    "price": 118,
+    "breed": "Birman",
+    "age": 5,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5249",
+    "image": "https://cdn2.thecatapi.com/images/OUZlUVIco.jpg",
+    "name": "Gaël",
+    "price": 140,
+    "breed": "Bombay",
+    "age": 14,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f524a",
+    "image": "https://cdn2.thecatapi.com/images/p46ys1bGF.jpg",
+    "name": "Emre",
+    "price": 98,
+    "breed": "British Shorthair",
+    "age": 11,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f524b",
+    "image": "https://cdn2.thecatapi.com/images/1tp.jpg",
+    "name": "Leon",
+    "price": 69,
+    "breed": "Burmese",
+    "age": 7,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f524c",
+    "image": "https://cdn2.thecatapi.com/images/401.jpg",
+    "name": "Vorotislav",
+    "price": 147,
+    "breed": "Chartreux",
+    "age": 13,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f524d",
+    "image": "https://cdn2.thecatapi.com/images/dkn.jpg",
+    "name": "Bachittar",
+    "price": 64,
+    "breed": "Cornish Rex",
+    "age": 15,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f524e",
+    "image": "https://cdn2.thecatapi.com/images/d56.jpg",
+    "name": "Aubin",
+    "price": 80,
+    "breed": "Devon Rex",
+    "age": 13,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f524f",
+    "image": "https://cdn2.thecatapi.com/images/5m1.jpg",
+    "name": "Inalda",
+    "price": 99,
+    "breed": "Domestic Longhair",
+    "age": 7,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5250",
+    "image": "https://cdn2.thecatapi.com/images/hd-zs3918.jpg",
+    "name": "Karl-Heinz",
+    "price": 82,
+    "breed": "Domestic Shorthair",
+    "age": 5,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5251",
+    "image": "https://cdn2.thecatapi.com/images/NoQGHgPl7.jpg",
+    "name": "Toni",
+    "price": 52,
+    "breed": "Egyptian Mau",
+    "age": 7,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5252",
+    "image": "https://cdn2.thecatapi.com/images/eff.jpg",
+    "name": "آنیتا",
+    "price": 94,
+    "breed": "German Rex",
+    "age": 14,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5253",
+    "image": "https://cdn2.thecatapi.com/images/aqa.jpg",
+    "name": "Onni",
+    "price": 69,
+    "breed": "Havana Brown",
+    "age": 11,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5254",
+    "image": "https://cdn2.thecatapi.com/images/c91.jpg",
+    "name": "Victoire",
+    "price": 77,
+    "breed": "Highlander",
+    "age": 14,
+    "gender": "female",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5255",
+    "image": "https://cdn2.thecatapi.com/images/a8b.jpg",
+    "name": "Dingeman",
+    "price": 126,
+    "breed": "Himalayan",
+    "age": 5,
+    "gender": "male",
+    "__v": 0
+  },
+  {
+    "_id": "63d4187fcadc3211680f5256",
+    "image": "https://cdn2.thecatapi.com/images/AhN6mXcc3.jpg",
+    "name": "Mile",
+    "price": 143,
+    "breed": "Japanese Bobtail",
+    "age": 13,
+    "gender": "male",
+    "__v": 0
+  }
+]

@@ -1,0 +1,17 @@
+extends layout
+
+block content
+    div.bg-img-shop.img-fluid
+    h1.container.display-1.m-3.font-weight-bold Cat Adoption Center
+    div.container.d-flex.flex-row.mt-5.flex-wrap.justify-content-center.align-items-center
+        each cat in data
+            div.card(style="width: 18rem;").m-3
+                div.ratio.ratio-4x3
+                    img.card-img-top(src=cat.image)
+                    //-https://thecatapi.com/
+                div.card-body
+                    h5.card-title #{cat.name}
+                    p.card-text Breed: #{cat.breed}
+                    p.card-text Gender: #{cat.gender}
+                    p.card-text Age: #{cat.age}
+                    h5.card-subtitle.mb-2.text-muted  $#{cat.price}
