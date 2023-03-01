@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin:0;
+}
+#site-name{
+    text-align: center;
+    font-size: 300%;  
+    padding: 10px; 
+}
+.navlist{
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 10%;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 150%;
+    color:black;
+}
+#about,h1,h2{
+    text-align: center;
+    padding: 10px;
+}
+#paragraph{   
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+#paragraph h1, p, img {
+    padding: 20px;
+    margin: 5px;
+}
+
+img{
+    height: 600px;
+    width: 900px;
+}
+#main{
+    padding: 25px;
+}
+.container_box2{
+    width: 200px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+}
+#footer{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    font-size: 150%;
+}

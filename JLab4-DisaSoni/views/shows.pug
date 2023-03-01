@@ -1,0 +1,19 @@
+extends layout 
+
+
+block main-content 
+  //You can overwrite the main-content block by writing block content
+  //in the template file which is extending.
+  h1.page-title Lab 4
+  p 15 most popular TV Shows: 
+   table#table
+    thead
+      tr
+        th Title
+        th Year   
+    tbody
+      each s in shows
+        tr
+          td
+            a(href=`https://imdb.com/title/${s.ids.imdb}`) #{s.title}
+          td #{s.year}

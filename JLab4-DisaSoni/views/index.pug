@@ -1,0 +1,17 @@
+extends layout 
+
+
+block main-content 
+  //You can overwrite the main-content block by writing block content
+  //in the template file which is extending.
+  h1.page-title Lab 4
+  p List Of Trendings Movies.
+  ul 
+    each m in movies 
+      li #{m.movie.title} (#{m.movie.year})
+
+  
+
+
+
+  

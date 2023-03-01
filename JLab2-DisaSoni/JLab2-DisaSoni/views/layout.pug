@@ -1,0 +1,24 @@
+block variables 
+doctype html 
+html 
+  head
+    meta(charset="utf-8") 
+    title #{title} | Jeans Cart
+    block scripts
+    link(rel="stylesheet", type="text/css", href="/styles.css")
+  body 
+    hedaer#header 
+      .header-content
+        h2#site-name  Jeans Cart
+          
+
+      nav#main-navigation
+        ul.navlist
+          each lk in menu 
+            li
+              a(href=lk.path) #{lk.name}   
+
+    main#main
+      block main-content
+    footer
+    #footer.p &copy; Copyright 2023 jeans cart. 
